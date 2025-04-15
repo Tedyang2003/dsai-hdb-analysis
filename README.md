@@ -18,7 +18,6 @@ The problem statement is:
 The audience is mainly sellers and buyers of hdb flat, providing them info on the what, where and when that affects the hdb price
 
 
-
 ## Data Preparation
 Here is an overview on how we prepared the dataset, involving collecting, cleaning and feature engineering
 
