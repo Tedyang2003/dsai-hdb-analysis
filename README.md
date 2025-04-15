@@ -5,6 +5,9 @@ Members:
 Aw Shao Yang U2323206F 
 Poh Jia Yong U2323306C
 
+Our project has been seperated to notebooks and pdf, notebooks under the folder notebooks and pdf on the top most level. There are also 2 notebooks 1 for full data collection and the other containing, clean, analsysis and NL
+
+
 ## Problem Statement
 The Housing Development Board (HDB) flat is a cornerstone of the Authentic Singaporean Experience (for [78% of us](https://www.singstat.gov.sg/find-data/search-by-theme/households/households/latest-data)). While many of us purchase flats directly from HDB through the Build-to-Order (BTO) exercise, there are some factors which will lead to many others purchasing an HDB flat on the resale market instead.
 
